@@ -12,6 +12,13 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        versace: ['"Cinzel"', 'serif'],
+        zara: ['"Playfair Display"', 'serif'],
+        gucci: ['"EB Garamond"', 'serif'],
+        prada: ['"Bodoni Moda"', 'serif'],
+        calvinklein: ['"Lora"', 'serif'],
+      },
     },
   },
   plugins: [],
